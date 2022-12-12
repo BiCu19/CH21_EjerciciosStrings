@@ -21,3 +21,5 @@ for (let index = 0; index < nombre.length; index++) {
     
 }  //for index
 console.log(letra, contFinal);
+
+
